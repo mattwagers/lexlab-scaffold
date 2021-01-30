@@ -1,0 +1,242 @@
+---
+title: "LexLab Analysis Scaffolding"
+author: "Matt Wagers"
+date: "1/29/2021"
+output: html_document
+bibliography: bibliography.json
+csl: apa.csl
+---
+
+# Set-up Chunks
+
+### R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. 
+
+### Session Options
+
+Setting up libraries and options. This tutorial uses libraries from the `tidyverse` family so install that library.
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+options(digits = 2)
+
+library(tidyverse)
+filter <- dplyr::filter
+```
+
+# Data Import, Cleaning and Checking
+
+## Import Data from Ibex
+
+The script `LexDec.js` has an unusually simple structure: each line contains information about a single trial[^ibex-results]. We can use the function `read_csv` to import these data.
+
+[^ibex-results]: This isn't the "norm" with Ibex, which lets each controller in your experiment write a line per trial. However, the template `LexDec.js` only used one controller: OnlineJudgment. There wasn't even a form to collect demographic information or debriefing info.
+
+In this function, we first create a vector containing column names. Many of these are not of use to us, or contain null or redundant info.
+
+```{r import OnlineJudgment data}
+# define column names [indicated by comments in datafile]
+OnlineJudgment.cdef <- c("time","IPMD5","controller", "item","element","type","group","wnum","word","RT","key","newline","stim")
+
+raw_results.tbl <- readr::read_csv("sample_results", comment = "#", col_names = OnlineJudgment.cdef)
+
+head(raw_results.tbl)
+```
+
+Let's clean up our columns and drop those we don't need.
+
+```{r clean up raw data}
+# Combining time and IPMD5 gives us a way of creating unique participant identifier
+# the following function 'pastes' those two columns together, and then hashes them to create an anonymous code
+
+createUniqueParticipantIdentifier <- function(ibex.tbl){
+  ibex.tbl$participant <- sapply(paste(ibex.tbl$time, 
+                                 ibex.tbl$IPMD5),
+                           digest::digest, algo="md5")
+  return(ibex.tbl)  
+}
+
+# Apply the CUPI function and then deselect the columns we don't need
+# Let's also rename the "RT" column to "LDT" to remind us what it really is ... "lexical decision time"
+deselect_cols.vec <- c("time", "IPMD5", "controller", "element", "group", "wnum", "newline", "stim")
+
+compact_results.tbl <- raw_results.tbl %>% 
+  createUniqueParticipantIdentifier %>%
+  select(-all_of(deselect_cols.vec)) %>%
+  rename(LDT = RT)
+
+head(compact_results.tbl)
+```
+
+## Check distribution of trials
+
+Before proceeding to any analysis of the dependent variables of interest, we should always check that our scripts were functioning as we wanted them to.
+
+Minimally, we want to check that we collected the right distribution of trials per participant and per condition. We can also check the distribution of RTs and overall "correctness."
+
+
+```{r check participant x item }
+# use the table command to create a contingency table, and the `%$%` operator to "expose" the columns of the target .tbl
+cond_by_participant.table <- compact_results.tbl %$% table(participant, type)
+ 
+# add margins and print to check
+cond_by_participant.table %>% addmargins()
+```
+
+```{r check LDT ranges}
+# plot the distribution of LDTs
+# many ways to plot
+
+# stripchart method
+stripchart(compact_results.tbl$LDT ~ compact_results.tbl$type, frame.plot=FALSE, method="stack", main="Stripchart of Lexical Decision Times (ms)")
+
+# histogram
+hist(compact_results.tbl$LDT, breaks=100, main="Histogram of Lexical Decision Times (ms)")
+
+# ggplot boxplot with log-10 axes
+compact_results.tbl %>%
+  ggplot(aes(x=type, y=LDT)) + geom_boxplot(aes(col=key)) + scale_y_log10() +
+  labs(title="Boxplot of Lexical Decision Times (ms)", caption="Grouped by Condition and Response")
+```
+
+A few things become apparent:
+
+- RTs have very long "right tail". We didn't timeout the response, so the trial wouldn't advance until a key was pressed.
+- the `key` variable isn't very helpful
+
+The right-tail problem for RT distributions is very problematic, because there is not a good way to identify outliers[^outliers]. We end up having to do something pretty arbitrary, more or less. Let's "slice off" a slender tail at either end: 0.5% of the smallest observations, and 0.5% of the largest observations. This is reasonably conservative, but takes care of 24 sec LDTs ...
+
+[^outliers]: Many have grappled with this! @Ratcliff93 is a classic starting point. More recently @BaayenMilin10 and @LoAndrews15 have pursued model-based solutions.
+
+```{r trim LDT}
+# first, determine the "cutoffs"
+tails <- quantile(compact_results.tbl$LDT, c(0.005, 0.995))
+
+# then, using filter to exclude, using the `between` boolean function
+trimmed_LDT.tbl <- compact_results.tbl %>%
+  filter(between(LDT, tails[1], tails[2]))
+
+# double check we excluded the intended amount of data
+
+excluded_pct <- 100 * (1-nrow(trimmed_LDT.tbl)/nrow(compact_results.tbl))
+message(paste("Excluded", round(excluded_pct,1),"% of lexical decision times"))
+```
+
+Now let's solve the other problem: better labels for `key`
+
+```{r rename key}
+# To solve this problem, we first create a translation key: 
+# the first column is the original names of `key`, the other column gives us new names
+keycode.tbl <- tibble(key = c("K", "S"),
+                      judgment = c("nonword", "word"))
+
+# We then use a join command to match all rows from the left table with matching rows in the right table
+trimmed_LDT.tbl <- left_join(trimmed_LDT.tbl, keycode.tbl)
+
+# Use `head` to check it worked
+head(trimmed_LDT.tbl)
+
+## You might want to use the same strategy to rename the "type" variable into two variables: "lexicality" and "frequency"
+
+## We can use the -select command to get rid of the columns we know longer want ...
+## ... this is destructive, so once it's run once the commands above won't work anymore
+trimmed_LDT.tbl <- trimmed_LDT.tbl %>% select(-key)
+head(trimmed_LDT.tbl)
+```
+
+With our neater dataset, let's replot our LDT range:
+
+```{r trimmed LDT range}
+# ggplot boxplot with log-10 axes
+trimmed_LDT.tbl %>%
+  ggplot(aes(x=type, y=LDT)) + geom_boxplot(aes(col=judgment)) + scale_y_log10() +
+  labs(title="Boxplot of Lexical Decision Times", caption="Grouped by Condition and Response")
+```
+
+The center line in a boxplot is the median[^boxplot]. Can you spot whether or not there's a frequency effect in the correct judgment of real words?
+Let's "regroup" to make it easier to spot ... observe how I swap `judgment` and `type` in the ggplot call below (with respect to the calls in the above chunks). Note I also store the result.
+
+[^boxplot]: Good time to read up on [boxplots](https://en.wikipedia.org/wiki/Box_plot)!
+
+```{r better trimmed LDT plot}
+trimmed_LDT.ggp <- trimmed_LDT.tbl %>%
+  ggplot(aes(x=judgment, y=LDT)) + geom_boxplot(aes(col=type)) + scale_y_log10() +
+  labs(title="Boxplot of Lexical Decision Times", caption="Grouped by Judgment and Condition")
+
+# let's "print" it with some friendlier colors & themes ... and make sure we don't forget our units!
+trimmed_LDT.ggp + ggthemes::theme_clean() + ggthemes::scale_color_colorblind() + ylab("Lexical decision time (ms)")
+```
+
+
+# Summarizing
+
+## Accuracy
+
+Here's a simple view of accuracy. We use the `table` and `prop.table` commands to cross-classify and *condition* by *judgment* and then normalize...
+
+```{r summarize accuracy v1}
+response.table <- with(trimmed_LDT.tbl, table(type, judgment)) 
+
+response.table %>% addmargins()
+response.table %>% prop.table(1)
+```
+
+Notice that our margins aren't as uniform as before, because we trimmed some LDTs. 
+
+This way of doing things is fine, but not very generalizable. For one thing, what counts as a "correct" response differs based on the type of word. There are a few strategies here. One uses `ifelse` statements.
+
+```{r summarize accuracy v2}
+trimmed_LDT.tbl <- trimmed_LDT.tbl %>% mutate(correct = ifelse(type=="words-fake" & judgment=="nonword", TRUE,
+                           ifelse(type!="words-fake" & judgment=="word", TRUE, FALSE)))
+
+trimmed_LDT.tbl %$% table(type, correct) %>% prop.table(1)
+```
+
+The `ifelse` method is clunky, fragile and hard-to-read. You should avoid it! It would be far better to use the more flexible and extensible `join` strategy from the `rename key` chunk above. Let's create a *lexicality* variable and then use a Boolean expression to check for correctness.
+
+```{r summarize accuracy v3}
+# create a lexicality.key
+lexicality.tbl <- tibble(type = c("words-fake", "words-hifreq", "words-lofreq"),
+                         lexicality = c("nonword", "word", "word"),
+                         frequency = c("zero", "high", "low"))
+# print it, to make sure it looks right
+print(lexicality.tbl)
+
+# left_join to insert `lexicality` into our data
+trimmed_LDT.tbl <- left_join(trimmed_LDT.tbl, lexicality.tbl)
+
+# Now, we can define `correct` as whether or not `judgment` and `lexicality` coincide3
+trimmed_LDT.tbl <- trimmed_LDT.tbl %>% mutate(correct = (lexicality==judgment))
+
+trimmed_LDT.tbl %$% table(correct, frequency, lexicality) %>% prop.table(c(2,3))
+```
+
+Same result, much more elegant. This will allow us to easily compute LDTs on both correct and incorrect trials. Plus, Boolean variables can be treated arithmetically in a pinch (mapping TRUE/FALSE to 1/0). Notice how `ptable` in the chunk above is used to create proportions over multiple dimensions: *c(2,3)* refers to the 2nd and 3rd dimension of the table just created, i.e., *frequency* and *lexicality*.
+
+Here is the `tidyverse` way of making a table like the above. As with `table` we group along the dimensions, but we explicitly call a counting function `n()` and compute the sums ourselves. We can filter to either *correct == FALSE* or *correct == TRUE* cases to generate the error rate or % correct rate, depending on how we want to report it.
+
+```{r summarize accuracy v4}
+trimmed_LDT.tbl %>% group_by(lexicality, frequency, correct) %>%
+  summarize(count = n()) %>% mutate(tot = sum(count), presp = count/tot) %>%
+  filter(correct==FALSE)
+```
+
+## Lexical Decision time
+
+```{r summarize LDT}
+ldt_summary.tbl <- trimmed_LDT.tbl %>% group_by(lexicality, frequency, correct) %>%
+  summarize(meanLDT = mean(LDT), sd = sd(LDT), N = n(), se = sd/sqrt(N))
+```
+
+```{r visualize LDT}
+ldt_summary.tbl %>% filter(correct==TRUE) %>% ggplot(aes(x = frequency, y = meanLDT, col=frequency, shape=lexicality)) +
+  geom_pointrange(aes(ymin = meanLDT - se, ymax=meanLDT+se), size = 1.2,position = position_dodge(width = 0.2)) +
+  cowplot::theme_cowplot() 
+ggsave("lexdec-correct.pdf", width=6, height=4)
+```
+
+
+# References

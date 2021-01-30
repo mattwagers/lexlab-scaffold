@@ -1,0 +1,2184 @@
+#
+# Results on Monday January 11 2021 05:27:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,976,K,False,CINALS
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1201,K,False,GLEEDS
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,605,S,False,TWELVE
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,538,K,False,GILATE
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,528,S,False,GROWTH
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,549,S,False,GHOULS
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,685,S,False,MIRROR
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,785,S,False,FLEECE
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,627,K,False,NISHES
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,662,S,False,VIEWER
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,628,K,False,BLANTH
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,641,S,False,QUEENS
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,528,K,False,RINEST
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,742,S,False,YIELDS
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,629,K,False,FLAZER
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,617,S,False,SHRIMP
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,527,K,False,FINARY
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,628,K,False,PLEACH
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,572,S,False,SCROLL
+1610342835,78720cc57a184aff6a820843fa444e63,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,584,K,False,VINISH
+#
+# Results on Monday January 11 2021 05:28:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,256,S,False,PLEACH
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,260,S,False,FLEECE
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,381,S,False,VINISH
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,279,S,False,MIRROR
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,595,S,False,FINARY
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1395,S,False,GLEEDS
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,370,S,False,GHOULS
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,303,S,False,GROWTH
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,336,S,False,SHRIMP
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,290,S,False,GILATE
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,269,S,False,TWELVE
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,54,S,False,FLAZER
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,267,S,False,QUEENS
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,471,S,False,VIEWER
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,346,S,False,BLANTH
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,561,S,False,NISHES
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,393,S,False,RINEST
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,315,S,False,SCROLL
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,369,S,False,CINALS
+1610342935,78720cc57a184aff6a820843fa444e63,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,348,S,False,YIELDS
+#
+# Results on Monday January 11 2021 18:31:13 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,715,S,False,RINEST
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,804,S,False,PLEACH
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,656,K,False,FLEECE
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,579,S,False,GILATE
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,501,K,False,MIRROR
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,466,K,False,TWELVE
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,674,K,False,YIELDS
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,444,K,False,VIEWER
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,568,S,False,GLEEDS
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,658,S,False,VINISH
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,678,S,False,FLAZER
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,532,K,False,SHRIMP
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,669,S,False,NISHES
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,452,K,False,SCROLL
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,637,S,False,FINARY
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,623,S,False,CINALS
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,514,K,False,GROWTH
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,576,K,False,GHOULS
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,634,K,False,QUEENS
+1610389873,37e3696dafa630ccf594c87c48975a2f,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,535,S,False,BLANTH
+#
+# Results on Wednesday January 13 2021 18:55:13 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1020,K,False,VINISH
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,829,S,False,MIRROR
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,868,S,False,VIEWER
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,619,S,False,GHOULS
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,572,S,False,YIELDS
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,908,K,False,CINALS
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,949,K,False,GILATE
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,772,S,False,QUEENS
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,724,S,False,SCROLL
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1059,K,False,FINARY
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,678,S,False,TWELVE
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,814,K,False,RINEST
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,774,S,False,GLEEDS
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,858,K,False,BLANTH
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,709,K,False,NISHES
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,563,K,False,FLAZER
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,763,S,False,GROWTH
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,868,S,False,FLEECE
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1030,K,False,PLEACH
+1610564114,e9bb1e6454a3ce9fce88ba8730ae2c0f,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,851,S,False,SHRIMP
+#
+# Results on Thursday January 14 2021 22:25:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,983,K,False,VINISH
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,672,S,False,SCROLL
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,777,S,False,FLEECE
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,848,K,False,RINEST
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,834,K,False,FINARY
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,591,S,False,SHRIMP
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,740,K,False,GILATE
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,925,K,False,GLEEDS
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,667,S,False,GROWTH
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1095,K,False,PLEACH
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1046,K,False,NISHES
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,847,K,False,BLANTH
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,598,S,False,VIEWER
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,872,K,False,FLAZER
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,865,K,False,CINALS
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,803,S,False,TWELVE
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,740,S,False,YIELDS
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,581,K,False,GHOULS
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,623,S,False,MIRROR
+1610663150,1fe9792384fd343b5684146e7dc1b06e,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,589,S,False,QUEENS
+#
+# Results on Friday January 15 2021 16:46:03 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,744,K,False,BLANTH
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,505,S,False,SCROLL
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,564,S,False,MIRROR
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,511,S,False,QUEENS
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,532,K,False,GILATE
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,693,K,False,CINALS
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,502,S,False,VINISH
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,828,K,False,FLAZER
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,505,S,False,GROWTH
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,793,K,False,NISHES
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,641,K,False,GLEEDS
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,474,S,False,FLEECE
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,585,S,False,VIEWER
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,522,S,False,SHRIMP
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,558,S,False,YIELDS
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,526,S,False,GHOULS
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,708,K,False,PLEACH
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,757,K,False,RINEST
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,605,S,False,TWELVE
+1610729163,e9c13ecd9606adb9570a7fff51c1d913,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,521,K,False,FINARY
+#
+# Results on Friday January 15 2021 19:44:05 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,693,S,False,GROWTH
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,1047,S,False,YIELDS
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,888,S,False,FLEECE
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1018,K,False,FLAZER
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1371,K,False,RINEST
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,795,S,False,VIEWER
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,748,S,False,MIRROR
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,1126,S,False,QUEENS
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,761,K,False,NISHES
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,889,K,False,CINALS
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,2743,K,False,GILATE
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1033,K,False,GLEEDS
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1144,S,False,GHOULS
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1013,K,False,FINARY
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,824,S,False,SHRIMP
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1040,K,False,BLANTH
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,919,K,False,VINISH
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,848,S,False,SCROLL
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,935,S,False,TWELVE
+1610739846,420e929294629d76b971ab5705bf3bf0,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,997,K,False,PLEACH
+#
+# Results on Saturday January 16 2021 00:12:24 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1292,K,False,PLEACH
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1246,K,False,GILATE
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,689,S,False,TWELVE
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,853,S,False,SCROLL
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,726,S,False,SHRIMP
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,659,K,False,FLAZER
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,717,K,False,FINARY
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,762,K,False,VINISH
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,704,S,False,MIRROR
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,720,K,False,BLANTH
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,905,S,False,VIEWER
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,798,S,False,GROWTH
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,709,S,False,QUEENS
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,609,S,False,YIELDS
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,734,K,False,CINALS
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,794,K,False,GLEEDS
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,703,K,False,RINEST
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,627,S,False,GHOULS
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,631,K,False,NISHES
+1610755945,b345c892cbd2a7dcda53a56c7a180952,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,637,K,False,FLEECE
+#
+# Results on Saturday January 16 2021 00:23:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1117,K,False,GLEEDS
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,753,K,False,FLAZER
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,460,S,False,MIRROR
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,894,K,False,CINALS
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,494,S,False,VIEWER
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1103,K,False,NISHES
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,572,S,False,SCROLL
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,564,S,False,GROWTH
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,611,S,False,SHRIMP
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,611,S,False,YIELDS
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,611,S,False,FLEECE
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,690,K,False,PLEACH
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,873,K,False,VINISH
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,483,S,False,QUEENS
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,960,S,False,GHOULS
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,454,S,False,TWELVE
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,822,K,False,FINARY
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,586,K,False,BLANTH
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,603,K,False,GILATE
+1610756627,aaa1d81fe772644cc9a1ea8a6b8eea30,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,770,K,False,RINEST
+#
+# Results on Sunday January 17 2021 00:33:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,718,K,False,BLANTH
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,717,S,False,GHOULS
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1016,K,False,FINARY
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,753,K,False,PLEACH
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,678,K,False,NISHES
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,738,K,False,GILATE
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,605,S,False,YIELDS
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,678,S,False,MIRROR
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,601,K,False,FLAZER
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,769,K,False,RINEST
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,880,K,False,VINISH
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,695,K,False,GLEEDS
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,554,S,False,SHRIMP
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,568,K,False,FLEECE
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,693,S,False,SCROLL
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1000,S,False,VIEWER
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,619,S,False,GROWTH
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,588,S,False,TWELVE
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,995,K,False,CINALS
+1610843600,60bbf29d57d5c95af36a753cb1c47dc7,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,650,S,False,QUEENS
+#
+# Results on Sunday January 17 2021 02:05:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,4200,K,False,VINISH
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1123,K,False,RINEST
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,875,K,False,GHOULS
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,863,S,False,SCROLL
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,752,S,False,GROWTH
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,774,K,False,FLAZER
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,673,S,False,QUEENS
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,853,K,False,PLEACH
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,953,K,False,GLEEDS
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,908,K,False,NISHES
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,886,S,False,YIELDS
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,819,K,False,BLANTH
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1055,S,False,VIEWER
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1269,S,False,FLEECE
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,785,S,False,MIRROR
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,875,S,False,TWELVE
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,830,K,False,GILATE
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,797,S,False,SHRIMP
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,796,K,False,FINARY
+1610849147,59091b974d4b8bbca993602b2d26a7de,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,740,K,False,CINALS
+#
+# Results on Sunday January 17 2021 07:45:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1869,K,False,VINISH
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,772,S,False,SHRIMP
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,955,K,False,RINEST
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,807,S,False,YIELDS
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,867,K,False,CINALS
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,824,S,False,VIEWER
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,1025,S,False,SCROLL
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1243,S,False,GHOULS
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,1014,S,False,QUEENS
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,893,K,False,FINARY
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,914,K,False,BLANTH
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,878,S,False,MIRROR
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1261,K,False,PLEACH
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1817,K,False,GILATE
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1082,S,False,TWELVE
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1329,K,False,FLAZER
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1215,S,False,FLEECE
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,1070,S,False,GROWTH
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,886,K,False,NISHES
+1610869559,54b0443a2adb0b75969b28e47acaf6a7,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1329,K,False,GLEEDS
+#
+# Results on Sunday January 17 2021 21:20:52 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,895,S,False,SCROLL
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1381,S,False,TWELVE
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1229,K,False,VINISH
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,997,K,False,BLANTH
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,703,S,False,FLEECE
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,696,S,False,MIRROR
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,757,K,False,CINALS
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,653,S,False,VIEWER
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,793,K,False,RINEST
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,867,S,False,GHOULS
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,792,S,False,SHRIMP
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,781,K,False,FINARY
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,851,K,False,FLAZER
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,779,K,False,GLEEDS
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,647,S,False,YIELDS
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,683,K,False,GILATE
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,635,S,False,QUEENS
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,852,K,False,PLEACH
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,1142,S,False,GROWTH
+1610918453,b6f9bf0f310731517f6ae23bb0d77339,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,830,K,False,NISHES
+#
+# Results on Sunday January 17 2021 22:28:04 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,654,K,False,VINISH
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,535,K,False,FLAZER
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,548,K,False,GHOULS
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,556,K,False,BLANTH
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,606,K,False,PLEACH
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,488,S,False,VIEWER
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,498,S,False,TWELVE
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,508,K,False,RINEST
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,414,S,False,QUEENS
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,498,S,False,MIRROR
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,512,K,False,GILATE
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,550,K,False,NISHES
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,425,S,False,YIELDS
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,469,S,False,SCROLL
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,398,K,False,FLEECE
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,581,K,False,GLEEDS
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,548,K,False,CINALS
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,398,S,False,GROWTH
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,618,K,False,FINARY
+1610922485,144fd1bb094850ff828a91691492d799,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,498,S,False,SHRIMP
+#
+# Results on Sunday January 17 2021 22:50:12 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,797,S,False,GROWTH
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,550,S,False,QUEENS
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,630,K,False,BLANTH
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,514,K,False,FLAZER
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,454,S,False,SCROLL
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,726,S,False,FLEECE
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,582,S,False,SHRIMP
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,459,K,False,GILATE
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,455,K,False,RINEST
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,558,K,False,CINALS
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,528,S,False,VIEWER
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,665,K,False,VINISH
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,689,S,False,TWELVE
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,500,K,False,FINARY
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,465,S,False,PLEACH
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,556,K,False,NISHES
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,629,S,False,GLEEDS
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,774,S,False,YIELDS
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,696,S,False,GHOULS
+1610923812,e1bd2ed394f42e479e434e1e6239c412,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,544,S,False,MIRROR
+#
+# Results on Sunday January 17 2021 23:24:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 15
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,998,K,False,FINARY
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,697,S,False,GHOULS
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,615,S,False,FLEECE
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,816,K,False,RINEST
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,556,S,False,SCROLL
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,832,K,False,FLAZER
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,539,S,False,GROWTH
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,949,K,False,PLEACH
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,801,K,False,GLEEDS
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,602,S,False,MIRROR
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,575,S,False,QUEENS
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,793,S,False,SHRIMP
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,807,K,False,VINISH
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,722,K,False,CINALS
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,797,K,False,BLANTH
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,493,S,False,VIEWER
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,864,K,False,GILATE
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,596,S,False,TWELVE
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,597,K,False,NISHES
+1610925885,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,909,S,False,YIELDS
+#
+# Results on Sunday January 17 2021 23:27:21 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,883,K,False,FLAZER
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,856,K,False,VINISH
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,841,K,False,FINARY
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,892,S,False,FLEECE
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,586,S,False,MIRROR
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,556,S,False,GHOULS
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,801,K,False,GILATE
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,619,K,False,RINEST
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,564,S,False,TWELVE
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1065,K,False,PLEACH
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1411,K,False,CINALS
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1169,K,False,GLEEDS
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,862,S,False,YIELDS
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,641,K,False,BLANTH
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1289,K,False,NISHES
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,585,S,False,SHRIMP
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,709,S,False,VIEWER
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,448,S,False,QUEENS
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,766,S,False,SCROLL
+1610926042,28cff111b385e14387b16ec64aa348e2,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,435,S,False,GROWTH
+#
+# Results on Sunday January 17 2021 23:50:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 17
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1837,K,False,FLAZER
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,853,S,False,YIELDS
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,673,K,False,RINEST
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,501,S,False,FINARY
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,369,S,False,MIRROR
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,488,S,False,VIEWER
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,388,S,False,FLEECE
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,627,K,False,NISHES
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,536,S,False,VINISH
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,569,K,False,BLANTH
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,569,S,False,PLEACH
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,540,S,False,QUEENS
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,577,K,False,CINALS
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,512,S,False,TWELVE
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,696,S,False,SCROLL
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,573,S,False,GROWTH
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,556,K,False,GLEEDS
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,475,S,False,SHRIMP
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,532,K,False,GHOULS
+1610927449,9361a2975a2b4ed64d430753b4dec770,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,593,K,False,GILATE
+#
+# Results on Monday January 18 2021 01:57:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1352,K,False,PLEACH
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1676,S,False,MIRROR
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1417,S,False,FLEECE
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,1377,S,False,SCROLL
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1321,K,False,GLEEDS
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,1194,S,False,QUEENS
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,2009,K,False,FLAZER
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,2026,K,False,FINARY
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,1083,S,False,SHRIMP
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1306,K,False,NISHES
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1465,S,False,TWELVE
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1139,K,False,BLANTH
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,810,S,False,YIELDS
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1249,S,False,VIEWER
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,835,S,False,GROWTH
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,2501,S,False,GHOULS
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1597,K,False,CINALS
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1963,K,False,VINISH
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,2630,K,False,RINEST
+1610935050,2d05b0fe704232fda20b99547e82d2e0,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,2150,K,False,GILATE
+#
+# Results on Monday January 18 2021 05:09:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,1066,S,False,YIELDS
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,917,S,False,GROWTH
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,736,S,False,MIRROR
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,811,S,False,SCROLL
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1209,K,False,VINISH
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1114,K,False,NISHES
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,934,S,False,QUEENS
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1028,K,False,FLAZER
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1059,S,False,VIEWER
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,923,S,False,GHOULS
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,963,K,False,FINARY
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,610,S,False,TWELVE
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,669,S,False,FLEECE
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,715,K,False,CINALS
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,937,K,False,RINEST
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,614,S,False,SHRIMP
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,826,K,False,GILATE
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,848,K,False,GLEEDS
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,816,K,False,PLEACH
+1610946551,eefbd17a68ccd53ebe4c9cdb2281c054,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1045,K,False,BLANTH
+#
+# Results on Monday January 18 2021 08:20:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 20
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1033,K,False,FINARY
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,650,K,False,BLANTH
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,615,K,False,RINEST
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,647,S,False,YIELDS
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,811,K,False,VINISH
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,483,S,False,GROWTH
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,579,S,False,GHOULS
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,498,S,False,SCROLL
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,626,K,False,FLAZER
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,639,K,False,GLEEDS
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,556,K,False,NISHES
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,554,S,False,FLEECE
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,545,S,False,QUEENS
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,516,S,False,SHRIMP
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,443,S,False,MIRROR
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,446,S,False,VIEWER
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,575,K,False,GILATE
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,592,K,False,CINALS
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,663,K,False,PLEACH
+1610958015,93160b24f8b7c53d9a3e5e03315ec74d,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,439,S,False,TWELVE
+#
+# Results on Monday January 18 2021 18:39:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 21
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,2128,S,False,VIEWER
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,753,S,False,GROWTH
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1637,K,False,FLAZER
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,612,S,False,SCROLL
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,2225,K,False,GLEEDS
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,783,K,False,GILATE
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,637,S,False,QUEENS
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,919,K,False,NISHES
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1621,K,False,FINARY
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,665,S,False,FLEECE
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,615,S,False,MIRROR
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,1024,S,False,SHRIMP
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,654,S,False,TWELVE
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,621,S,False,YIELDS
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,718,S,False,GHOULS
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,826,K,False,PLEACH
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1573,K,False,VINISH
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,882,K,False,RINEST
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,3598,K,False,BLANTH
+1610995151,c02c4ed17e8dda212f30ab2a511a5709,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,693,K,False,CINALS
+#
+# Results on Monday January 18 2021 20:12:58 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 22
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,701,K,False,BLANTH
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,536,S,False,YIELDS
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,716,K,False,PLEACH
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,564,S,False,TWELVE
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,921,K,False,VINISH
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,772,K,False,NISHES
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1147,K,False,GLEEDS
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,912,K,False,FLAZER
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,568,S,False,GROWTH
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,882,K,False,RINEST
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1412,K,False,FINARY
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,632,S,False,VIEWER
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,640,S,False,SCROLL
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,623,S,False,GHOULS
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,624,S,False,MIRROR
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,743,S,False,FLEECE
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,607,S,False,SHRIMP
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1173,K,False,GILATE
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,819,K,False,CINALS
+1611000779,540a2a9150b5cae20595944c4048a72a,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,631,S,False,QUEENS
+#
+# Results on Monday January 18 2021 20:34:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 23
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,2218,S,False,SCROLL
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1347,K,False,NISHES
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1314,S,False,VIEWER
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,1065,S,False,SHRIMP
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1290,K,False,CINALS
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,667,S,False,GROWTH
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1675,K,False,GLEEDS
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,851,S,False,GHOULS
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,510,S,False,MIRROR
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1409,K,False,VINISH
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,485,S,False,TWELVE
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,3195,K,False,BLANTH
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,708,S,False,YIELDS
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1722,K,False,FLAZER
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1164,S,False,FINARY
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,951,K,False,RINEST
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,2467,K,False,GILATE
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,640,S,False,FLEECE
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1077,K,False,PLEACH
+1611002067,ea7c05e0a4e6a6c9ac9c1e49316adca2,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,679,S,False,QUEENS
+#
+# Results on Monday January 18 2021 20:44:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 24
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1161,K,False,GILATE
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,639,S,False,GROWTH
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,831,K,False,NISHES
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,573,S,False,VIEWER
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,834,K,False,BLANTH
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1035,K,False,RINEST
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,587,S,False,GHOULS
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,542,S,False,YIELDS
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,525,S,False,PLEACH
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1072,K,False,VINISH
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,799,S,False,TWELVE
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,744,K,False,FINARY
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,621,S,False,SCROLL
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,792,K,False,GLEEDS
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,610,S,False,MIRROR
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,550,S,False,SHRIMP
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,690,S,False,FLEECE
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,541,S,False,QUEENS
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,714,K,False,FLAZER
+1611002656,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,661,K,False,CINALS
+#
+# Results on Monday January 18 2021 20:46:32 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1213,K,False,FLAZER
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,707,S,False,QUEENS
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,654,K,False,NISHES
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,795,K,False,PLEACH
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,543,S,False,MIRROR
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,719,K,False,GILATE
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,723,K,False,RINEST
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,614,S,False,VIEWER
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,698,K,False,VINISH
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,677,K,False,CINALS
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,538,S,False,SHRIMP
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,720,K,False,FINARY
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,723,S,False,TWELVE
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,660,K,False,BLANTH
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,667,S,False,SCROLL
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,567,S,False,GHOULS
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,765,S,False,GROWTH
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,515,S,False,FLEECE
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,697,K,False,GLEEDS
+1611002793,ca58c84997c0cee5dde4046d7c227dfe,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,645,S,False,YIELDS
+#
+# Results on Monday January 18 2021 21:09:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 26
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,560,S,False,VIEWER
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,715,K,False,GILATE
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,805,K,False,PLEACH
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,585,S,False,MIRROR
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,664,K,False,FINARY
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,566,S,False,VINISH
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,935,S,False,GHOULS
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,624,K,False,BLANTH
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,634,S,False,SCROLL
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,753,S,False,QUEENS
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,834,S,False,FLEECE
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,750,S,False,SHRIMP
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,487,K,False,RINEST
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,772,K,False,FLAZER
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,569,S,False,TWELVE
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,445,K,False,YIELDS
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,833,K,False,NISHES
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,900,S,False,GROWTH
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,598,S,False,CINALS
+1611004155,4f60e21fd051b1989e2bd8b51fd1266c,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,614,S,False,GLEEDS
+#
+# Results on Monday January 18 2021 22:53:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 27
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,586,S,False,GROWTH
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,949,S,False,TWELVE
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,557,S,False,GHOULS
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,500,K,False,BLANTH
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,572,K,False,NISHES
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,508,K,False,CINALS
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,495,K,False,FLAZER
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,616,S,False,SCROLL
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,555,K,False,PLEACH
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,524,S,False,MIRROR
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,486,K,False,FINARY
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,614,K,False,GLEEDS
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,523,S,False,YIELDS
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,483,K,False,RINEST
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,627,S,False,VIEWER
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,602,S,False,QUEENS
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,534,S,False,FLEECE
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,552,K,False,VINISH
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,585,K,False,GILATE
+1611010421,fe90556ef09e093fb972b5e195ddf78b,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,471,S,False,SHRIMP
+#
+# Results on Monday January 18 2021 23:26:40 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 28
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1027,K,False,VINISH
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,802,S,False,YIELDS
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1109,K,False,CINALS
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,679,S,False,VIEWER
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,698,S,False,SHRIMP
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,951,K,False,TWELVE
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,976,K,False,FLAZER
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1335,K,False,GILATE
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1523,K,False,FINARY
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,789,S,False,FLEECE
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,1206,S,False,SCROLL
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1256,K,False,RINEST
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1155,K,False,PLEACH
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1488,S,False,MIRROR
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,946,K,False,BLANTH
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1849,K,False,NISHES
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,771,S,False,GROWTH
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,858,S,False,QUEENS
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1085,K,False,GLEEDS
+1611012400,40a98bebd3069610fc613833306fd05b,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1110,S,False,GHOULS
+#
+# Results on Tuesday January 19 2021 01:25:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1676,K,False,PLEACH
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,936,S,False,FLEECE
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1531,S,False,GHOULS
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,851,S,False,MIRROR
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,643,S,False,SCROLL
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,798,K,False,CINALS
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,602,K,False,BLANTH
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,790,K,False,GILATE
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,606,S,False,YIELDS
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,689,S,False,SHRIMP
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,757,K,False,VINISH
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,850,K,False,NISHES
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,724,S,False,VIEWER
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,654,S,False,TWELVE
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,576,K,False,FLAZER
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,651,S,False,GROWTH
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,642,K,False,GLEEDS
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,548,S,False,QUEENS
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,666,K,False,FINARY
+1611019516,b66fdac5ef1206202db2e305519d0013,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1126,K,False,RINEST
+#
+# Results on Tuesday January 19 2021 02:20:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,899,K,False,FLAZER
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,855,S,False,GHOULS
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,785,S,False,YIELDS
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,627,S,False,SCROLL
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,690,K,False,NISHES
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,661,S,False,TWELVE
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,796,K,False,PLEACH
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,648,K,False,FLEECE
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,683,S,False,CINALS
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,534,S,False,QUEENS
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,634,K,False,GILATE
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,722,K,False,VINISH
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1099,K,False,GLEEDS
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1007,K,False,BLANTH
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,722,S,False,VIEWER
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,880,S,False,GROWTH
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,505,S,False,MIRROR
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,752,S,False,FINARY
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,723,K,False,RINEST
+1611022854,06275d1448b16c20fbf7271d9494f7db,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,793,S,False,SHRIMP
+#
+# Results on Tuesday January 19 2021 02:57:39 UTC.
+# USER AGENT: Mozilla/5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1
+# Design number was non-random = 31
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,987,K,False,FLAZER
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,730,S,False,TWELVE
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,758,S,False,SCROLL
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,691,S,False,GROWTH
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,709,S,False,GHOULS
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,746,K,False,RINEST
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,852,K,False,NISHES
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,766,K,False,GLEEDS
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,901,K,False,VINISH
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,683,S,False,MIRROR
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,592,S,False,SHRIMP
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,821,S,False,FLEECE
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,861,K,False,PLEACH
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,682,S,False,QUEENS
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,814,K,False,CINALS
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,731,S,False,VIEWER
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,817,K,False,FINARY
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,902,K,False,BLANTH
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,725,K,False,GILATE
+1611025059,93585a80633e6a68164a5b0a2e65f154,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,953,S,False,YIELDS
+#
+# Results on Tuesday January 19 2021 03:40:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,1252,S,False,SCROLL
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,718,K,False,CINALS
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,842,K,False,FINARY
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,626,S,False,SHRIMP
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,654,S,False,QUEENS
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,612,K,False,RINEST
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,540,S,False,VIEWER
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,638,K,False,FLEECE
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1119,K,False,PLEACH
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,619,S,False,GROWTH
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,660,S,False,GHOULS
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,701,S,False,TWELVE
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,825,K,False,FLAZER
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,784,K,False,GLEEDS
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,644,S,False,MIRROR
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,782,K,False,GILATE
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,717,S,False,YIELDS
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1335,K,False,VINISH
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1120,K,False,NISHES
+1611027611,86de6c1113c1e70782aedd8f3de73061,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,715,K,False,BLANTH
+#
+# Results on Tuesday January 19 2021 16:59:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:78.0) Gecko/20100101 Firefox/78.0
+# Design number was non-random = 33
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,787,S,False,FLEECE
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,652,K,False,GROWTH
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,688,S,False,SHRIMP
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,659,S,False,QUEENS
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,632,S,False,TWELVE
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,766,K,False,VINISH
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,806,K,False,GLEEDS
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,821,K,False,FINARY
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,769,S,False,YIELDS
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,897,K,False,FLAZER
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,850,S,False,GHOULS
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,620,S,False,SCROLL
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,749,K,False,NISHES
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,958,K,False,RINEST
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,191,K,False,MIRROR
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,615,S,False,VIEWER
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,724,K,False,CINALS
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,679,K,False,GILATE
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,736,K,False,BLANTH
+1611075583,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,772,K,False,PLEACH
+#
+# Results on Tuesday January 19 2021 17:08:00 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:78.0) Gecko/20100101 Firefox/78.0
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,1160,S,False,GROWTH
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,790,K,False,GLEEDS
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,764,K,False,CINALS
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,954,K,False,FLAZER
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,748,S,False,SHRIMP
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1118,K,False,PLEACH
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,721,S,False,VIEWER
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,865,S,False,TWELVE
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,686,K,False,FINARY
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,806,K,False,GILATE
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,867,S,False,YIELDS
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,1145,S,False,SCROLL
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,113,K,False,GHOULS
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1369,K,False,VINISH
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1574,S,False,FLEECE
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1366,S,False,MIRROR
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,999,K,False,NISHES
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,924,K,False,BLANTH
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,679,S,False,QUEENS
+1611076080,b51b7c408f611ca57798a4af7461d013,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1139,K,False,RINEST
+#
+# Results on Tuesday January 19 2021 18:27:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 35
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,847,S,False,GROWTH
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,667,S,False,VIEWER
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,565,K,False,RINEST
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,368,S,False,GHOULS
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,450,S,False,TWELVE
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,383,S,False,VINISH
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,511,S,False,YIELDS
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,596,S,False,FLEECE
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,530,S,False,SCROLL
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,471,K,False,NISHES
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,477,S,False,QUEENS
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,635,K,False,FLAZER
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,564,S,False,SHRIMP
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,868,K,False,GLEEDS
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,645,K,False,FINARY
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,593,K,False,CINALS
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,591,K,False,GILATE
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,450,S,False,MIRROR
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,601,K,False,BLANTH
+1611080878,a5797443a884be3247a7fa72a1e2b6fa,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,592,K,False,PLEACH
+#
+# Results on Tuesday January 19 2021 20:10:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1378,S,False,VINISH
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,792,S,False,MIRROR
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,966,K,False,GILATE
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,632,S,False,TWELVE
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1039,S,False,FINARY
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1065,S,False,NISHES
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,915,S,False,SCROLL
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,811,K,False,FLAZER
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,775,S,False,SHRIMP
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,904,K,False,BLANTH
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,925,K,False,PLEACH
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,742,S,False,YIELDS
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,546,S,False,QUEENS
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,799,K,False,GLEEDS
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,597,S,False,VIEWER
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,799,K,False,RINEST
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,608,S,False,GROWTH
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,627,S,False,GHOULS
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,697,S,False,FLEECE
+1611087020,4c8329040e784415148d52a678c6ec87,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,796,K,False,CINALS
+#
+# Results on Wednesday January 20 2021 00:07:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1008,S,False,MIRROR
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1200,K,False,BLANTH
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,809,K,False,CINALS
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,551,S,False,FLEECE
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1240,K,False,VINISH
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,684,S,False,VIEWER
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1557,K,False,GILATE
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,570,S,False,QUEENS
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,481,S,False,TWELVE
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,697,S,False,GROWTH
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,812,K,False,GLEEDS
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,714,K,False,NISHES
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,993,K,False,FINARY
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,927,S,False,SCROLL
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1100,S,False,GHOULS
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,945,K,False,PLEACH
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,666,S,False,SHRIMP
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,730,K,False,RINEST
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,827,K,False,FLAZER
+1611101240,ef2031f89b143aa3367baef018fccd7e,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,2753,S,False,YIELDS
+#
+# Results on Wednesday January 20 2021 00:30:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,555,K,False,FLAZER
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,505,K,False,CINALS
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,440,K,False,GILATE
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,535,S,False,TWELVE
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,411,S,False,FINARY
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,530,S,False,VIEWER
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,533,S,False,FLEECE
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,596,S,False,YIELDS
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,521,S,False,SHRIMP
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,540,K,False,PLEACH
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,456,K,False,BLANTH
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,545,K,False,GHOULS
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,534,S,False,SCROLL
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,582,K,False,NISHES
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,504,K,False,RINEST
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,438,S,False,QUEENS
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,446,S,False,MIRROR
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,476,K,False,GLEEDS
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,466,S,False,GROWTH
+1611102657,59991efce79d78df1386b1a79f3a1ac5,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,454,K,False,VINISH
+#
+# Results on Wednesday January 20 2021 02:02:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,771,S,False,GROWTH
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,912,K,False,GILATE
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1531,K,False,CINALS
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1151,K,False,PLEACH
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,605,S,False,MIRROR
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,781,S,False,GHOULS
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,654,S,False,VIEWER
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,723,S,False,YIELDS
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,694,K,False,NISHES
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,591,S,False,QUEENS
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,488,S,False,VINISH
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,824,K,False,GLEEDS
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,644,K,False,FLAZER
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,771,S,False,FLEECE
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,574,S,False,BLANTH
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,722,S,False,SHRIMP
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,710,S,False,SCROLL
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,773,K,False,FINARY
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1556,K,False,RINEST
+1611108171,12b2d7d9ac1f7aa36ac0266da1f1f987,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,924,S,False,TWELVE
+#
+# Results on Wednesday January 20 2021 03:02:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,686,S,False,SCROLL
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,735,S,False,GHOULS
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,860,K,False,GILATE
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,737,S,False,YIELDS
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,553,S,False,PLEACH
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,704,S,False,QUEENS
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,784,K,False,FLAZER
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,980,S,False,CINALS
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,829,K,False,FINARY
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,677,S,False,SHRIMP
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,826,K,False,RINEST
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,604,S,False,GROWTH
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1023,K,False,NISHES
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,826,S,False,TWELVE
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,831,S,False,FLEECE
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,772,K,False,BLANTH
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,930,K,False,VINISH
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,632,S,False,MIRROR
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,796,K,False,GLEEDS
+1611111765,4af020617bb7cc149b2af4a053084eb8,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,634,S,False,VIEWER
+#
+# Results on Wednesday January 20 2021 04:01:25 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,917,S,False,SCROLL
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1159,K,False,GLEEDS
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1815,S,False,FLEECE
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1446,S,False,GHOULS
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,666,S,False,MIRROR
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,1309,S,False,YIELDS
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1244,K,False,FLAZER
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1130,K,False,CINALS
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,683,S,False,VIEWER
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1197,S,False,TWELVE
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,665,S,False,QUEENS
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1204,K,False,VINISH
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,1534,S,False,SHRIMP
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1110,K,False,RINEST
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1294,K,False,GILATE
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1092,K,False,FINARY
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1276,K,False,PLEACH
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,931,K,False,BLANTH
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,768,S,False,GROWTH
+1611115286,daccf55e68aa09813965e6fa5b0c2d5e,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,877,K,False,NISHES
+#
+# Results on Wednesday January 20 2021 05:44:39 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,18916,K,False,GILATE
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,2922,K,False,MIRROR
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,2846,K,False,FLEECE
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,1027,K,False,YIELDS
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,24048,K,False,FINARY
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,7289,K,False,NISHES
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1559,K,False,BLANTH
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,7409,K,False,FLAZER
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,6102,K,False,GHOULS
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1175,K,False,RINEST
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,11129,K,False,SCROLL
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1215,K,False,PLEACH
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,5083,K,False,SHRIMP
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,863,K,False,QUEENS
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,744,K,False,TWELVE
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,980,K,False,VIEWER
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1901,K,False,GLEEDS
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,1114,K,False,GROWTH
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,824,K,False,CINALS
+1611121480,bbd774c1ba60bd3f59c7adb587a4cdcf,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1251,K,False,VINISH
+#
+# Results on Wednesday January 20 2021 06:49:17 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,971,S,False,GHOULS
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1442,K,False,NISHES
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,853,S,False,SCROLL
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1102,K,False,RINEST
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,771,S,False,GROWTH
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1340,K,False,PLEACH
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1205,K,False,GILATE
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,773,S,False,YIELDS
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,894,K,False,BLANTH
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,984,K,False,VINISH
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1192,S,False,FLEECE
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1064,S,False,VIEWER
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1495,S,False,TWELVE
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1276,K,False,GLEEDS
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,989,S,False,MIRROR
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,779,K,False,FLAZER
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,717,S,False,SHRIMP
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,778,K,False,FINARY
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,769,K,False,CINALS
+1611125357,3ead80d01d9a9479da748739f825a563,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,805,S,False,QUEENS
+#
+# Results on Wednesday January 20 2021 06:50:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,7007,S,False,TWELVE
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,1339,K,False,BLANTH
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,2167,K,False,CINALS
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1716,S,False,VINISH
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,2145,S,False,GLEEDS
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1829,S,False,FLEECE
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,3804,K,False,GILATE
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,978,S,False,GHOULS
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,983,S,False,MIRROR
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,623,S,False,SHRIMP
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1657,S,False,RINEST
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1608,K,False,FLAZER
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1105,K,False,PLEACH
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,760,S,False,YIELDS
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,1164,S,False,GROWTH
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,981,S,False,VIEWER
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,550,S,False,QUEENS
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,2335,K,False,NISHES
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1155,S,False,FINARY
+1611125416,9234604f50ff05bb7bf7ff057b0ec034,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,984,S,False,SCROLL
+#
+# Results on Wednesday January 20 2021 06:56:40 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 45
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1555,S,False,TWELVE
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,679,S,False,SHRIMP
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,555,S,False,SCROLL
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,639,S,False,FLEECE
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,466,S,False,MIRROR
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,936,K,False,GLEEDS
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,565,S,False,YIELDS
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1047,K,False,FINARY
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,651,S,False,GHOULS
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,985,K,False,VINISH
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,683,K,False,NISHES
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,821,K,False,PLEACH
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,726,K,False,GILATE
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,613,S,False,QUEENS
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,1192,S,False,VIEWER
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,800,K,False,FLAZER
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,806,K,False,CINALS
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,863,S,False,GROWTH
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,652,K,False,RINEST
+1611125801,1b71d9d4412d551e23a008bb1e53647d,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,633,K,False,BLANTH
+#
+# Results on Wednesday January 20 2021 18:14:53 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 46
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1002,S,False,FLEECE
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1016,K,False,CINALS
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,663,S,False,TWELVE
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1068,K,False,VINISH
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,807,K,False,FLAZER
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,2337,S,False,FINARY
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,919,S,False,GHOULS
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,1010,K,False,PLEACH
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,796,S,False,SCROLL
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1040,S,False,MIRROR
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,768,S,False,YIELDS
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,756,K,False,NISHES
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1382,K,False,GILATE
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,783,S,False,VIEWER
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,828,S,False,GROWTH
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,1006,K,False,RINEST
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,777,S,False,SHRIMP
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,929,K,False,BLANTH
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,958,K,False,GLEEDS
+1611166494,e2d97f8f9a6dd8646bee9565adcc9692,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,624,S,False,QUEENS
+#
+# Results on Thursday January 21 2021 05:12:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,734,K,False,RINEST
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,755,K,False,CINALS
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,540,S,False,MIRROR
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,554,S,False,FLEECE
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,744,S,False,SHRIMP
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,597,S,False,GROWTH
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,719,K,False,BLANTH
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,541,K,False,FLAZER
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,651,S,False,TWELVE
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,736,S,False,GHOULS
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,783,K,False,PLEACH
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,768,S,False,YIELDS
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,563,S,False,VIEWER
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,818,K,False,GILATE
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,812,K,False,FINARY
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,714,K,False,NISHES
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,770,K,False,VINISH
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,661,S,False,QUEENS
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,689,S,False,SCROLL
+1611205977,93bef984ead389896fc72768e95bcc8f,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,631,K,False,GLEEDS
+#
+# Results on Saturday January 23 2021 02:00:13 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 48
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,504,S,False,FLEECE
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,1011,K,False,GILATE
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,528,S,False,TWELVE
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,628,S,False,FLAZER
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,792,K,False,RINEST
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,656,K,False,GLEEDS
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,604,S,False,GHOULS
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,629,S,False,SCROLL
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,594,S,False,SHRIMP
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,595,S,False,GROWTH
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,775,K,False,VINISH
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,803,K,False,PLEACH
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,566,K,False,BLANTH
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,608,S,False,YIELDS
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,535,S,False,QUEENS
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,588,K,False,CINALS
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,624,S,False,VIEWER
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,586,K,False,NISHES
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,611,K,False,FINARY
+1611367214,395ffcb1ece77b0d37ff6967b5619d09,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,509,S,False,MIRROR
+#
+# Results on Tuesday January 26 2021 04:25:09 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1035,S,False,MIRROR
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,492,S,False,SHRIMP
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,482,S,False,SCROLL
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,580,S,False,VINISH
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,604,S,False,YIELDS
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,553,K,False,CINALS
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,633,S,False,VIEWER
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,651,S,False,TWELVE
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,734,K,False,FLAZER
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,659,K,False,RINEST
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,526,S,False,QUEENS
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,529,K,False,GLEEDS
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,402,K,False,FLEECE
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,670,K,False,NISHES
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,617,S,False,GHOULS
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,640,K,False,BLANTH
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,776,K,False,PLEACH
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,594,K,False,GILATE
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,507,S,False,GROWTH
+1611635110,d85e90c5a9c802fd4832272b1f3d8475,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,749,K,False,FINARY
+#
+# Results on Tuesday January 26 2021 10:48:14 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 50
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,762,S,False,TWELVE
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,685,S,False,GROWTH
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,569,S,False,MIRROR
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,769,K,False,FINARY
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,791,K,False,PLEACH
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,788,K,False,VINISH
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,754,K,False,GILATE
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,603,S,False,GHOULS
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,866,K,False,RINEST
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,580,K,False,FLAZER
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,628,S,False,QUEENS
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,766,S,False,FLEECE
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,624,K,False,NISHES
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,615,K,False,BLANTH
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,590,S,False,YIELDS
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,676,S,False,SCROLL
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,1075,S,False,SHRIMP
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,740,K,False,GLEEDS
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,651,K,False,CINALS
+1611658095,62b80e5dbea74e293c4aa5209353f2ba,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,809,S,False,VIEWER
+#
+# Results on Tuesday January 26 2021 10:48:29 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 50
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,832,S,False,SCROLL
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,916,S,False,MIRROR
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,907,K,False,FINARY
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,973,K,False,GILATE
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,1011,K,False,NISHES
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,517,S,False,SHRIMP
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,591,S,False,TWELVE
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,830,K,False,CINALS
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,1185,S,False,GHOULS
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,799,K,False,FLAZER
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,547,S,False,YIELDS
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,531,S,False,VIEWER
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,731,K,False,GLEEDS
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,480,S,False,GROWTH
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,739,K,False,BLANTH
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,556,S,False,VINISH
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,643,S,False,QUEENS
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,746,K,False,PLEACH
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,819,K,False,RINEST
+1611658110,31f4c758ed252c94116dd9d2fcc05f72,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,739,S,False,FLEECE
+#
+# Results on Tuesday January 26 2021 10:57:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,1036,S,False,MIRROR
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,686,K,False,PLEACH
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,731,K,False,CINALS
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,660,K,False,RINEST
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,715,K,False,GLEEDS
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,675,K,False,VINISH
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,644,K,False,GILATE
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,685,K,False,FINARY
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,508,S,False,QUEENS
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,540,S,False,VIEWER
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,572,K,False,NISHES
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,750,K,False,FLAZER
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,635,S,False,YIELDS
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,565,S,False,FLEECE
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,466,S,False,TWELVE
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,509,S,False,SHRIMP
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,459,S,False,GROWTH
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,418,S,False,SCROLL
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,428,S,False,GHOULS
+1611658678,08eb08892d0cce6a450ab99b2988a3c0,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,581,K,False,BLANTH
+#
+# Results on Wednesday January 27 2021 04:11:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+# Design number was non-random = 53
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,930,K,False,NISHES
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,797,S,False,FLEECE
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,841,K,False,GILATE
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,673,K,False,CINALS
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,496,S,False,MIRROR
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,693,K,False,VINISH
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,699,K,False,RINEST
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,588,S,False,QUEENS
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,582,S,False,SCROLL
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,530,S,False,PLEACH
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,615,S,False,SHRIMP
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,501,K,False,VIEWER
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,690,K,False,GHOULS
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,1068,S,False,GLEEDS
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,595,S,False,GROWTH
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,791,S,False,YIELDS
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,767,K,False,FLAZER
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,1182,K,False,FINARY
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,587,S,False,TWELVE
+1611720668,939b337d3a2ba6ccb9b58742030b4229,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,831,K,False,BLANTH
+#
+# Results on Wednesday January 27 2021 06:01:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 54
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,1115,S,False,TWELVE
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,787,S,False,VIEWER
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,805,S,False,MIRROR
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,824,K,False,CINALS
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,814,K,False,FLAZER
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,893,S,False,GROWTH
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,834,K,False,FINARY
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,921,K,False,PLEACH
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,925,S,False,SHRIMP
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,901,K,False,NISHES
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,770,K,False,GILATE
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,1157,S,False,FLEECE
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,971,S,False,GHOULS
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,805,K,False,BLANTH
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,883,K,False,GLEEDS
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,1056,S,False,YIELDS
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,940,K,False,VINISH
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,1474,S,False,SCROLL
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,955,K,False,RINEST
+1611727311,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,1187,S,False,QUEENS
+#
+# Results on Wednesday January 27 2021 06:03:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,16,0,words-fake,NULL,1,FINARY,2065,K,False,FINARY
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,13,0,words-fake,NULL,1,VINISH,1292,K,False,VINISH
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,9,0,words-hifreq,NULL,1,SHRIMP,813,S,False,SHRIMP
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,20,0,words-fake,NULL,1,CINALS,1345,K,False,CINALS
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,19,0,words-fake,NULL,1,GLEEDS,810,K,False,GLEEDS
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,14,0,words-fake,NULL,1,GILATE,919,K,False,GILATE
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,10,0,words-hifreq,NULL,1,MIRROR,941,S,False,MIRROR
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,17,0,words-fake,NULL,1,NISHES,670,K,False,NISHES
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,7,0,words-hifreq,NULL,1,GROWTH,726,S,False,GROWTH
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,4,0,words-lofreq,NULL,1,GHOULS,736,S,False,GHOULS
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,11,0,words-hifreq,NULL,1,QUEENS,924,S,False,QUEENS
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,18,0,words-fake,NULL,1,FLAZER,1162,K,False,FLAZER
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,12,0,words-fake,NULL,1,BLANTH,856,K,False,BLANTH
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,3,0,words-lofreq,NULL,1,FLEECE,984,S,False,FLEECE
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,21,0,words-fake,NULL,1,RINEST,2005,K,False,RINEST
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,8,0,words-hifreq,NULL,1,TWELVE,931,S,False,TWELVE
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,6,0,words-lofreq,NULL,1,VIEWER,631,S,False,VIEWER
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,5,0,words-lofreq,NULL,1,YIELDS,629,S,False,YIELDS
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,2,0,words-lofreq,NULL,1,SCROLL,698,S,False,SCROLL
+1611727431,0ecdae1a96399c0c3535cc6a747b3f71,OnlineJudgment,15,0,words-fake,NULL,1,PLEACH,730,K,False,PLEACH

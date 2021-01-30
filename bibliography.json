@@ -1,0 +1,65 @@
+[
+   {
+      "id": "Ratcliff93",
+      "title": "Methods for dealing with reaction time outliers.",
+      "author": [
+         {
+            "family": "Ratcliff",
+            "given": "Roger"
+         }
+      ],
+      "container-title": "Psychological Bulletin",
+      "volume": 114,
+      "issue": 3,
+      "page": "510-532",
+      "type": "article-journal",
+      "issued": {
+         "year": 1993
+      }
+   },
+   {
+      "id": "BaayenMilin10",
+      "title": "Analyzing reaction times.",
+      "author": [
+         {
+            "family": "Baayen",
+            "given": "R. H."
+         },
+         {
+            "family": "Milin",
+            "given": "P."
+         }
+      ],
+      "container-title": "International Journal of Psychological Research",
+      "volume": 3,
+      "issue": 2,
+      "page": "12-28",
+      "type": "article-journal",
+      "issued": {
+         "year": 2010
+      }
+   },
+   {
+      "id": "LoAndrews15",
+      "title": "To transform or not to transform: Using generalized linear mixed models to analyse reaction time data.",
+      "author": [
+         {
+            "family": "Lo",
+            "given": "Steson"
+         },
+         {
+            "family": "Andrews",
+            "given": "Sally"
+         }
+      ],
+      "container-title": "Frontiers in Psychology",
+      "volume": 6,
+      "URL": "https://doi.org/10.3389/fpsyg.2015.01171",
+      "doi": "10.3389/fpsyg.2015.01171",
+      "page": 1171,
+      "type": "article-journal",
+      "issued": {
+         "year": 2015
+      }
+   }
+]
