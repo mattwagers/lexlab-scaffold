@@ -2,9 +2,11 @@
 title: "LexLab Analysis Scaffolding"
 author: "Matt Wagers"
 date: "1/29/2021"
-output: html_document
-bibliography: bibliography.json
+output:
+  html_document: default
+  pdf_document: default
 csl: apa.csl
+bibliography: bibliography.json
 ---
 
 # Set-up Chunks
@@ -19,12 +21,13 @@ When you click the **Knit** button a document will be generated that includes bo
 
 Setting up libraries and options. This tutorial uses libraries from the `tidyverse` family so install that library.
 
-```{r setup}
+```{r setup the libraries I need}
 knitr::opts_chunk$set(echo = TRUE)
 options(digits = 2)
 
 library(tidyverse)
 filter <- dplyr::filter
+library(magrittr)
 ```
 
 # Data Import, Cleaning and Checking
@@ -41,8 +44,8 @@ In this function, we first create a vector containing column names. Many of thes
 # define column names [indicated by comments in datafile]
 OnlineJudgment.cdef <- c("time","IPMD5","controller", "item","element","type","group","wnum","word","RT","key","newline","stim")
 
-raw_results.tbl <- readr::read_csv("sample_results", comment = "#", col_names = OnlineJudgment.cdef)
-
+raw_results.tbl <- readr::read_csv("sample_results.csv", 
+                                   comment = "#", col_names = OnlineJudgment.cdef)
 head(raw_results.tbl)
 ```
 
@@ -236,6 +239,229 @@ ldt_summary.tbl %>% filter(correct==TRUE) %>% ggplot(aes(x = frequency, y = mean
   geom_pointrange(aes(ymin = meanLDT - se, ymax=meanLDT+se), size = 1.2,position = position_dodge(width = 0.2)) +
   cowplot::theme_cowplot() 
 ggsave("lexdec-correct.pdf", width=6, height=4)
+```
+
+
+#### Standard deviations
+
+By now, you've probably already been eyeing the patterns in the data tables. How can we know whether those differences reflect difference in the underlying processes of lexical access, and not random differences or errors due to our sampling procedure? 
+
+To answer that question, we must quantify how the observations are spread around the mean: the *variance*. You are probably familiar with *variance*, because from it, we derive the *standard deviation*. The standard deviation tell us what the average distance is from any given data point to the mean. Consider the plot below, which illustrates the mean and standard deviation for all the RTs (without stratifying into conditions):
+
+```{r illustrateSD, fig.width=6, fig.height=3}
+boxplot(trimmed_LDT.tbl$LDT, horizontal=TRUE)
+stripchart(trimmed_LDT.tbl$LDT, pch="*", method="jitter", col="darkgrey", add=TRUE)
+
+LDT.mean <- mean(trimmed_LDT.tbl$LDT)
+LDT.sd <- sd(trimmed_LDT.tbl$LDT)
+
+# Mark the mean with a red line
+abline(v = LDT.mean, lwd=2, col="red")
+
+# Mark the SD with two blue arrows
+arrows(x0 = LDT.mean, y0=1.2, x1 = LDT.mean+LDT.mean, y1=1.2, lwd=2, col="darkblue")
+arrows(x0 = LDT.mean, y0=1.2, x1 = LDT.mean-LDT.mean, y1=1.2, lwd=2, col="darkblue")
+```
+
+Notice in this plot that the observations aren't scattered evenly around the mean: this is because RTs are bounded to the left (e.g., they must be positive), but are effectively unbounded to the right. [Because of this: a better summary statistic for this data might be the median, but using the median, a so-called rank based statistic, will present its own set of challenges.]
+
+OK, so let's plot the condition-wise standard deviations, computed as part of the `summarize LDT` chunk. Here I will plot them with their means. Do you notice any pattern?
+
+```{r plot SDs}
+ldt_summary.tbl %>% 
+  ggplot(aes(x = meanLDT, y=sd)) + 
+  geom_point(aes(col=frequency, shape=correct), size=5) + cowplot::theme_cowplot() +
+  scale_x_log10() + scale_y_log10() +
+  ggthemes::scale_color_colorblind()
+```
+
+We can see in which conditions there is greater scatter amongst the observations. In doing statistical inference, we use that scatter to estimate the range of results we might expect from replicating this experiment. Based on that estimate, we decide whether two means are significantly far apart from one another: if one mean falls within the other means range of replication, then it is risky to conclude that they are not merely different due to the inherent variation in the measurement/experimental design/number of subjects/number of items.
+
+### Inferential statistics - first steps
+
+Consider the factor *frequency*. Let's ask whether frequency" "has an effect."
+
+First, compute the difference in high and low frequency words.
+
+```{r frequencyEffect}
+rw_corr_means.tbl <- ldt_summary.tbl %>% filter(frequency %in% c("high", "low") & correct==TRUE)
+print(rw_corr_means.tbl)
+
+# What is the difference between hi and lo frequency?
+rw_freq_effect <- rw_corr_means.tbl$meanLDT %>% diff
+print(rw_freq_effect)
+```
+
+To know whether that the difference observed, `r rw_freq_effect`, could be explained by inherent variation in experiments like the one we just conducted, we must now estimate the range of likely outcomes. This is related to the sample standard deviation, via what's known asthe *standard error*. The standard error is the standard deviation, not of the sample, but of the sample mean. You can think of this in a few ways: one, as the standard deviation of a set of means from a series of identical experiments; or two, as the variability in means if we randomly drop certain trials and replace them with others. 
+
+The standard error, in a simple case, is given by dividing the standard deviation by the square root of the number of observations. Notice that having the number of observations in denominator means that our standard error is inversely proportional to the number of observations, and thus that the precision of our estimates of the mean is directly proportional to the N.
+
+We already computed SE in the `summarize LDT` chunk. (See above)
+
+This value is not inherently that interesting to us, since it would only be used to test a hypothesis that we would never really consider - namely that the mean RT is different from zero. Let's compute separate standard errors per frequency x lexicality bin:
+
+To test the contrast of frequency in just the words (or just the non-words), we combine the two standard errors in a way that's weighted by the number of observations. We'll let R do that for us via the `t.test` command below. 
+
+#### Excursus I: central limit theorem
+
+With the standard error in hand, we now consider the central limit theorem. The central limit theorem tells us that the distribution of means tends in the limit toward a special distribution: the Normal distribution. Among the important properties of the Normal are its symmetry and the fact it can be specified just by a standard deviation and mean. Suppose we repeatedly drop/replace trials in our dataset with other trials and recomputing the mean each time. If we do this, we will derive a normal distribution (notice that it is symmetric and *not* positively-skewed, like the sample distribution of RTs; that's because it's not a distribution of RT observations, but a distribution of means over those observations).
+
+```{r resampleDistribution, fig.width=5, fig.height=5}
+# This demo will "resample"" the experiment; that is: drop some observations and replacing them by duplicating others.
+# Let's do it 500 times and keep track of the results
+
+# This vector will store our results
+sample.means <- vector(mode="double", length=1000)
+
+# This loop will repeat 1000 times
+reps <- 1E3
+
+for(i in 1:reps){
+  # sample reconstitutes the sample by drawing from the set of observations with replacement (can draw the same obs again)
+  resample.experiment <- sample(trimmed_LDT.tbl$LDT, replace=TRUE)
+  mean(resample.experiment) -> sample.means[i]
+}
+
+# Draw a histogram of 500 outcomes
+hist(sample.means, breaks=50, xlab="sample mean", ylab="number of outcomes", col="pink")
+```
+Crucially, observe that the mean of this, the so-called `sampling distribution`, is `r mean(sample.means)`, which is the almost identical to the empirically observed grand mean `r mean(trimmed_LDT.tbl$LDT)`. And the standard deviation of this distribution, `r sd(sample.means)` is very close to the empirical standard error: `r sd(trimmed_LDT.tbl$LDT)/sqrt(length(trimmed_LDT.tbl$LDT))`. The importance of the central limit theorem is that it allows us make a good estimate of the sampling distribution, based on our observations alone.
+
+#### Confidence interval & t-test
+
+In a normal distribution, 95% of the values falls between (roughly) 2 times the standard deviation in either direction from the mean (the actual multiplier is closer to 1.96). So we can establish a 95% 'confidence interval' of means that we expect just via the process of sampling. 
+
+The confidence interval tells us how much risk comes with accepting our estimate of some effect. Intuitively we can think of them as a plausible range of values for the “true” difference in the population between lexical decision times to our set of high and low frequency words. But more accurately, we can think of CIs as a statement of how good of an estimate we made. What is the chance of us getting the wrong idea about the true effect? Notice that the higher we raise the confidence level C, the wider our boundaries get: we’re willing to tolerate less risk in our estimate of the population value, so we make it harder and harder for it to fall outside our interval. In psycholinguistics, the 95% C.I. is commonly used.  
+
+In the calculations below, we calculate the confidence interval on the overall mean:
+
+```{r confidenceInterval}
+options(digits=3)
+# approximate calculation
+LDT.mean <- mean(trimmed_LDT.tbl$LDT)
+LDT.se <- sd(trimmed_LDT.tbl$LDT)/sqrt(length(trimmed_LDT.tbl$LDT))
+c(LDT.mean - 2*LDT.se, LDT.mean + 2*LDT.se) 
+
+# less approximate calculation
+n <- length(trimmed_LDT.tbl$LDT)
+conf.int <- qnorm(0.975)*LDT.se
+c(LDT.mean - conf.int, LDT.mean + conf.int)
+
+# exact calculation
+t.test(trimmed_LDT.tbl$LDT)$conf.int
+```
+
+However, to test the difference between any two means, we can ask: does the difference between two means exceed a confidence interval on their differences? To do this, we need to know: the empirical value of the two means, their standard deviations, and the number of observations. When the number of observations is small, we have to 'inflate' the multiplier on the standard error to account for the extra uncertainty in the quality of our estimate -- this effectively admits that more observations might fall in the tails of the distribution than we think. To do this, we use the so-called `t-distribution`.
+
+```{r confidenceInterval.t}
+confidence.level <- .05
+
+qt(1-(confidence.level/2), df = length(trimmed_LDT.tbl$RT-1))
+```
+
+Based on the t-distribution, we can apply a `t-test` to compare two sample means, and determine whether they are  different from one another, beyond just what we'd expect from sampling - i.e., is one mean outside ~2x the sampling distribution of the other mean. Although it's possible to do this by hand, we can use R's built in `t.test()` function to compute the two means, and the confidence interval over thei difference. It's better to use the in-built function, because it makes a number of correction for important factors not discussed here (for brevity and clarity's sake). Suffice it to say that the definition of standard error - and the quantity called the degrees of freedom - changes if different numbers of observations go into each mean, if different conditions have unequal variances, etc. [almost always the case for RTs].
+
+Let's demonstrate this for the effect of frequency on words: 
+```{r tTest}
+options(digits=5)
+# Dependent variable is expressed to the left of ~, variable you're testing to the right
+frequency.t_test <- trimmed_LDT.tbl %>% filter(lexicality=="word") %$%
+  t.test(LDT ~ frequency)
+
+# Specified alternatively
+with(trimmed_LDT.tbl, t.test(LDT[frequency=="high"], LDT[frequency=="low"]))
+```
+
+This outputs a lot of useful information. Focusing on the 95% confidence interval, we see that it contains the empirical difference, `r -diff(frequency.t_test$estimate)`. Crucially, observe that the confidence interval **does include 0**. Based on this fact, we would not call the difference *significant* at the conventional level (*p < .05*). Because the confidence interval included 0, then the natural variation in the sampling procedure (given our sample size, our participants, etc.) is deemed _by convention_ sufficient to explain the observed difference. (There is nothing mathematically important about the number 95% - it is a convention. We can apply a stricter or a looser standard, if we'd like. In this case, it also happens to be conventional to refer to the result as marginally significant (*p < .10*. But I underscore the word *conventional*.)
+
+Above the confidence interval there are three numbers: `t`, `df` and `p-value`. The t-value expresses the difference between the means normalized against the standard error (adjusted because of unequal sample sizes and unequal sample standard deviations). It is useful to express the number in this way, because, if its absolute value is greater than ~2, then the confidence interval probably doesn't include 0. The p-value tells us actually how far out into the tails of the t-distribution we have to go to find our observed difference. Crucially, to correspond to a 95% confidence interval, it has to be less than .05.
+
+Given all of this, we could report in a write-up, something like, 
+
+> There was a marginally significant effect of frequency: lexical decisions to high frequency words were faster than to low frequency words, by `r round(diff(frequency.t_test$estimate),0)` ms (Welch's two-sample t = `r round(frequency.t_test$statistic,2)`, df = `r round(frequency.t_test$parameter,1)`, p = `r round(frequency.t_test$p.value,3)`). 
+  
+There is a standard practice is to report the p-value as an inequality along the following scale: ".10 > .05 > .01 > .005 > .001". There is nothing deep about it; and in fact, you should know that it is in many ways unsatisfactory. Report exact p-values.
+
+Alternatively, you can report the mean difference and its confidence interval:
+
+    There was a marginally significant effect of frequency: lexical decisions to high frequency words were faster than to low frequency words, by `r round(diff(frequency.t_test$estimate),0)` ms +/- `r round(diff(frequency.t_test$conf.int)/2,0)` ms (p < .001).
+    
+[If you're following along the .Rmd document, you will notice I'm inserting those values in-line in the text, not just copy-and-pasting them from the analysis output. Observe, while you're at it, that the units are reported].    
+    
+##### Demonstration by simulation
+
+Probably you have a headache by now, but let's just show that the results of a simulation in which we resample the data will generate a similar result. In other words, we take out some observations and replace them with others (randomly) - and then compute the difference according to frequency. Skip this if you like.
+
+```{r resampleDifference}
+# Create a vector to hold the result of each 're-sample'
+differences.vector <- vector(mode="double", length=500)
+# Unique trial IDs
+real_words.tbl <- filter(trimmed_LDT.tbl, lexicality=="word")
+observations <- 1:nrow(trimmed_LDT.tbl)
+
+for(i in 1:1000){
+  # Sample from the trial IDs
+  resample.index <- sample(observations, replace=TRUE)
+  # Take the difference across means according to frequency, using the resample index
+  differences.vector[i] <- diff(with(real_words.tbl[resample.index,], tapply(LDT, frequency, mean))[1:2])
+}
+
+# Summary stats of difference vector
+mean(differences.vector)
+quantile(differences.vector, c(0.025, .975))
+```
+
+The `quantile` command lets us find out where the central 95% of the distribution lines -- thus directly computing the confidence interval. How does the resampled interval compared with the t-test? [You may want to run the simulation a few times.]
+
+### Graphing
+
+What you should take away from the above: the standard deviation of a sample/condition/contrast tells us valuable information about how precisely we can resolve differences between two values. We can convey this information succintly by using *error bars* on a graph. Review the `visualize LDT` chunk above for how to accomplish this with `ggplot`.
+
+The advantage of having these standard-error-sized error bars is that I can imagine doubling them for any given bar, and then seeing whether it overlaps with the height of another bar. This is a quick-and-dirty (i.e., adequate, not perfect) way of gauging whether a difference is significant, without consulting the text.
+
+### To come
+
+OK, this is enough to handle for now. Congratulations on finishing this document!
+
+- In the next lab, we'll talk about the very important topic of how to handle subject and item variability. The application of a simple two-sample t-test is really inappropriate, since it assumes the two conditions were sampled independently - but, in fact, they came from the same individual! For now, though, we'll elide over this important feature of our data set ... a feature which pervades almost all (psycho)linguistic data.
+
+
+#### Excursus II: T-test by simulation
+
+Let's demonstrate by simulation how the results of the t-test can be obtained.
+
+```{r ttestSim, fig.width=7, fig.height=5}
+# Subset out the RTs for hi and lo freq words, respectively
+subset(real_words.tbl, frequency=="high")$LDT -> hifreq.population
+subset(real_words.tbl, frequency=="low")$LDT -> lofreq.population
+
+# Create a vector to hold the sample differences
+vector(mode="double", length=1000) -> sample.differences
+
+# Repeat loop - each time, for the hi and lo freq RTs, drop some and replace with duplicates of others
+for(i in 1:1000){
+  hifreq.sample <- sample(hifreq.population, replace=TRUE)
+  lofreq.sample <- sample(lofreq.population, replace=TRUE)
+  
+  # compute the difference between the means of these resampled RTs
+  sample.differences[i] <- mean(hifreq.sample) - mean(lofreq.sample)
+}
+
+# What's the range of the middle 95% of values of sample differences?
+quantile(sample.differences, c(0.025, 0.975))
+
+# How does this compare to the t-test result?
+print(frequency.t_test$conf.int)
+
+# Draw a histogram to illustrate
+hist(sample.differences, breaks=20, col="pink", xlim=c(-300, 300))
+# Mark 0
+abline(v=0, lty="dotted", lwd=2, col="darkgrey")
+# Resampling confidence interval in red
+abline(v = quantile(sample.differences, c(0.025, 0.975)), col="red", lwd=2)
+# T-test conf. int. in blue
+abline(v = frequency.t_test$conf.int, col="darkblue", lwd=2)
+legend(x = "topleft", legend=c("resampling simulation", "t.test()"), lty="solid", col=c("red", "darkblue"))
 ```
 
 
